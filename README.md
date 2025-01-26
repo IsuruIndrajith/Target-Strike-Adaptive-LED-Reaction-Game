@@ -5,6 +5,15 @@
 
 ---
 
+## 🤝 **Contributors**
+As a project of the module EC6020_Embedded System and Design, our group members :  
+Indrajith E.M.I. 2021/E/035 
+Weerathunga I.S.L.-2021/E/055
+Koswaththa A.D. - 2021/E/020
+Jayasinghe R.R.G.I.S - 2021/E/122
+Kasuhalya K.A.P.T- 2021/E/070 
+
+---
 ## ✨ **Features**
 - 🔧 **Difficulty Levels**:  
   - 🟢 **Easy**: Targets stay on for 6 seconds.  
@@ -25,7 +34,7 @@
 ---
 
 ## 🛠️ **Hardware Requirements**
-1. 🖥️ **Microcontroller**: Arduino, ESP32, or similar.  
+1. 🖥️ **Microcontroller**: ESP32  
 2. 📟 **LCD Display**: 16x2 or equivalent.  
 3. 💡 **LED Targets**: For interactive hit zones.  
 4. 🔘 **Push Buttons**: For player inputs and menu navigation.  
@@ -72,14 +81,6 @@
 - 📱 **Mobile Integration**: Use a smartphone app for score tracking or remote control.  
 - 🎭 **Advanced Gameplay**: Introduce multi-LED patterns for higher difficulty.  
 - 🌍 **Leaderboard System**: Save high scores for competitive tracking.  
-
----
-
-## 🤝 **Contributing**
-We ❤️ contributions! If you'd like to enhance the game or add features, feel free to:  
-1. Fork this repository.  
-2. Create a new branch for your changes.  
-3. Submit a pull request with your awesome improvements!  
 
 ---
 
