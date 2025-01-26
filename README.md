@@ -50,7 +50,7 @@ As part of the **EC6020_Embedded System and Design** module, this project was de
 
 Below is the circuit diagram for **Target Strike**:
 
-![Circuit Diagram](./assets/Main Controller diagram)
+![Circuit Diagram](assets/Main Controller diagram.jpg)
 
 ---
 
