@@ -6,12 +6,14 @@
 ---
 
 ## 🤝 **Contributors**
-As a project of the module EC6020_Embedded System and Design, our group members :  
-Indrajith E.M.I. 2021/E/035 
-Weerathunga I.S.L.-2021/E/055
-Koswaththa A.D. - 2021/E/020
-Jayasinghe R.R.G.I.S - 2021/E/122
-Kasuhalya K.A.P.T- 2021/E/070 
+
+As part of the **EC6020_Embedded System and Design** module, this project was developed collaboratively by our group members:  
+
+- **Indrajith E.M.I.** - 2021/E/035  
+- **Weerathunga I.S.L.** - 2021/E/055  
+- **Koswaththa A.D.** - 2021/E/020  
+- **Jayasinghe R.R.G.I.S.** - 2021/E/122  
+- **Kasuhalya K.A.P.T.** - 2021/E/070  
 
 ---
 ## ✨ **Features**
