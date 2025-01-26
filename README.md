@@ -46,6 +46,14 @@ As part of the **EC6020_Embedded System and Design** module, this project was de
 
 ---
 
+## 🖼️ Circuit Diagram
+
+Below is the circuit diagram for **Target Strike**:
+
+![Circuit Diagram](./assets/Main Controller diagram)
+
+---
+
 ## 🎮 **How It Works**
 1. **Game Initialization**:  
    - Players use buttons and the LCD menu to select difficulty and game mode.  
