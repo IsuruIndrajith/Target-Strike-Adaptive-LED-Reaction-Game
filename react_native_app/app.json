@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_app",
+    "slug": "react_native_app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "40e5d2b9-cd14-414b-8c97-86e290526089"
+      }
+    },
+    "android": {
+      "package": "target.strike"
+    }
+  }
+}
