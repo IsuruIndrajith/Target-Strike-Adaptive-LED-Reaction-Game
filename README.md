@@ -1,4 +1,4 @@
-# 🎯 **Target Strike: LaserGun Game**
+# 🎯 **Target Strike: Interactive Shooter Game**
 
 ## 🚀 **Overview**  
 **Target Strike** is a compact embedded system game offering a 🎉 thrilling, 🛡️ ultra-safe, and 🎯 precision-focused experience. It replaces physical projectiles with infrared laser targeting and photodiode detection systems, creating an accessible competitive environment. Features intuitive LED-guided interactions and real-time LCD feedback for dynamic gameplay.
