@@ -110,8 +110,3 @@ https://github.com/user-attachments/assets/0e47b100-bcf6-4655-a8e0-2bdadc604601
 
 ---
 
-* `https://your-image-url.com/app-screenshot1.png`
-* `https://your-image-url.com/app-screenshot2.png`
-* `https://www.youtube.com/watch?v=your-video-id-here`
-
-And you’re good to go! Let me know if you want to embed a **Firebase real-time dashboard preview** or show **ESP32 serial logs**, too.
